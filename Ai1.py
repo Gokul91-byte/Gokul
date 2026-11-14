@@ -8,3 +8,4 @@ for i in range(A,B):
     else:
         
         print( i,end="\n")
+    
